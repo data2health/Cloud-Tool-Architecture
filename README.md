@@ -16,13 +16,13 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Tom Dillon (tmdillon@wustl.edu) | Washington University I2 | Philip Payne
+Tom Dillon (@tmdillon) | Washington University I2 | Philip Payne
 
 ## Leads 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Ricky Rodriguez (@n ) | Washington University I2
+Ricky Rodriguez (@ ) | Washington University I2
  
 
 
