@@ -1,14 +1,14 @@
-# Reusable Data best practice portal (rdp-portal)
+# CD2H-Infrastructure-Search-Engine
 
-CTSA hubs produce many valuable datasets which can be shared across the broader research community. A significant gap exists between the data providers and the data discovery portals where researchers look for relevant datasets (including the generic Google Dataset search and many biomedical specific data portals). Data providers typically lack sufficient guides to expose their dataset metadata to these data portals. This web-based data-sharing best-practice will serve as the interactive widgets to guide through the important steps of data-sharing, which will make providers' datasets discoverable through multiple data portals.
+TBD
 
 ## Problem statement
 
-This portal aims to help investigators share their data (or information about their data) using best practices for metadata, identifiers, licensing, and other attributes; the goal is to enable discovery and reuse.
+This portal aims to  
 
 ## Project description
 
-The biomedical and informatics communities have largely endorsed the spirit and basic components of the FAIR Data Principles. Biomedical data producers, including CTSA hubs, need actionable best-practice guidance on how to make their data discoverable and reusable, and bring the practical benefits of data sharing to researcher’s own research projects, as well as the research community as a whole. This project will target the specific steps during the data-sharing process, such as data-hosting, data-licensing and metadata-authoring.
+ 
 
 ## Contact person
 
@@ -16,73 +16,37 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Chunlei Wu (@newgene) | Scripps | Melissa Haendel (@mellybelly)
+Tom Dillon (tmdillon@wustl.edu) | Washington University I2 | Philip Payne
 
 ## Leads 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Chunlei Wu (@newgene) | Scripps
-Robin Champieux (@rchampieux) | OHSU
-Kristi Holmes (@kristiholmes)  | Northwestern
+Ricky Rodriguez (@n ) | Washington University I2
+ 
 
 
 ## Team members 
 
-  * Scripps Research
-    * Chunlei Wu
-    * Ali Torkamani
-    * Jiwen (Kevin) Xin
-    * Sebastien Lelong
-    * Marco Cano
-    * Xinhua (Jerry) Zhou
-  
-  * Northwestern University
-    * Kristi Holmes
-    * Matt Carson
-    * Sara Gonzales
-    * Guilaume Viger
-  
-  * OHSU
-    * Robin Champieux
-    * Melissa Haendel
-    
+  * Washington University I2
+    *    
   * University of Iowa
     * Dave Eichmann
    
-  * Sage Bionetworks
-    * James Eddy
-    * Milen Nikolov
-    * Kara Woo
-
+  
      
 
 
 ## Repositories
 
-  * Metadata schemas
   
-    https://github.com/data2health/schemas
-    
-  * Best practice web portal
-  
-    https://github.com/biothings/discovery-app
-    
-  * Data repository survey
-  
-    https://github.com/data2health/repository-and-index-software
-    
-  * Metadata schema utility tools
-  
-    https://github.com/biothings/biothings_schema.py
-
 ## Deliverables
 
-A collaborative guidebook, an interactive web portal, and an metadata-authoring web portal
+
 
 ## Milestones
 
-The milestones for this rdp-portal project is here:
+The milestones for this project is here:
 
 https://github.com/data2health/rdp-portal/milestones
 
