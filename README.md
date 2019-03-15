@@ -1,4 +1,4 @@
-# CD2H-Infrastructure-Search-Engine
+# CD2H-Resource Discovery and Search Engine
 
 TBD
 
