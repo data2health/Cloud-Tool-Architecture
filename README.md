@@ -48,7 +48,7 @@ Ricky Rodriguez (@ ) | Washington University I2
 
 The milestones for this project is here:
 
-https://github.com/data2health/CD2H-Infrastructure-Search-Engine/milestones
+https://github.com/data2health/Cloud-Tool-Archtecture/milestones
 
 We are still in the process of finalizing them.
 
