@@ -1,4 +1,4 @@
-# CD2H-Resource Discovery and Search Engine
+# Cloud-Tool-Architecture
 
 TBD
 
