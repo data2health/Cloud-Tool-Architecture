@@ -26,7 +26,8 @@ Tom Dillon (@tmdillon) | Washington University I2 | Philip Payne
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Ricky Rodriguez (@ ) | Washington University I2
+Justin Gulnney / Sage
+Philip Payne) | Washington University I2
 
 ## Distro List
 Payne, Philip <prpayne@wustl.edu>;
