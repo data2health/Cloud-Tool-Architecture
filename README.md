@@ -27,6 +27,30 @@ Tom Dillon (@tmdillon) | Washington University I2 | Philip Payne
 Lead(s) (github handle) | Site
 ----------|--------------|
 Ricky Rodriguez (@ ) | Washington University I2
+
+## Distro List
+Payne, Philip <prpayne@wustl.edu>;
+margie.grover@vumc.org; 
+justin.guinney@sagebase.org; 
+james.eddy@sagebase.org; 
+matthew.carson@northwestern.edu; 
+Komeshak, Rachel <komeshak@wustl.edu>; 
+Lisa Lea O'Keefe <lisa.okeefe@northwestern.edu>; 
+david-eichmann@uiowa.edu; 
+Kenneth.Gersing@nih.gov; 
+metaxotd@mail.nih.gov; 
+mariam.deacy@nih.gov; 
+michaelsg@mail.nih.gov; 
+biju.mathew@nih.gov; 
+raju.hemadri@nih.gov; 
+ramussa@uw.edu; 
+Rodriguez, Ricardo <ricardo.rodriguez@wustl.edu>; 
+Lai, Albert <amlai@wustl.edu>; 
+Usman Sheikh <Usman.Sheikh@axleinfo.com>; 
+Simon, Reid (NIH/NCATS) [C] <reid.simon@nih.gov>; 
+Kirsch, Keats (NIH/NCATS) [C] <keats.kirsch@nih.gov>
+
+
  
 
 
