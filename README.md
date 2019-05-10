@@ -20,14 +20,14 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Tom Dillon (@tmdillon) | Washington University I2 | Philip Payne
+Tom Dillon (@tmdillon) | Washington University I2 | Melissa Haendel
 
 ## Leads 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Justin Gulnney / Sage
-Philip Payne) | Washington University I2
+Justin Gulnney | Sage
+Philip Payne | Washington University I2
 
 ## Distro List
 Payne, Philip <prpayne@wustl.edu>;
@@ -58,11 +58,12 @@ Kirsch, Keats (NIH/NCATS) [C] <keats.kirsch@nih.gov>
 ## Team members 
 
   * Washington University I2
-    *    
-  * University of Iowa
-    * Dave Eichmann
-   
-  
+Philip Payne	prpayne@wustl.edu
+Tom Dillon	tmdillon@wustl.edu
+Ricky Rodriguez	ricardo.rodriguez@wustl.edu
+Albert Lai	amlai@wustl.edu
+TBN Cloud Architect	tbn@wustl.edu
+
      
 
 
