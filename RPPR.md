@@ -9,7 +9,7 @@ Don't edit this - the RPPR generater populates this section
 
 # Timeline (monthly)
 
-Task Name	Start	Finish
+Task| Name|	Start	|Finish
 Concept Phase	14-Apr	13-May
 Identify Project Goals	14-Apr	13-May
 
