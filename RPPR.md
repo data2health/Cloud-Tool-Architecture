@@ -24,33 +24,9 @@ When viewed collectively, we believe that these innovative dimensions of our wor
 
 # Timeline (monthly)
 
-Task| Name|	Start	|Finish
-Concept Phase | 43569 | I3043598
-Identify Project Goals | 43569 | I3043598
-Planning Phase | 43599 | I3043616
-Define the project scope | 43599 | I3043602
-Define the cloud resources required and draft design | 43605 | I3043609
-Coordinate with NCATS on cloud design and access | 43605 | I3043609
-Coordinate with Mortality-Prediction and LNP CD2H projects | 43612 | I3043616
-Implementation Phase | 43619 | I3044012
-Documenting deployment guidebook/workflow | 43619 | I3043658
-Create the project image in NCATS Cloud | 43619 | I3043622
-Cloud access request submitted to NCATS | 43622 | I3043622
-Build the CD2H GitLab project container from the NCATS image. | 43623 | I3043626
-Install GitLab in the CD2H GitLab Container | 43627 | I3043630
-GitLab validation | 43633 | I3043635
-Cloud access request submitted to NCATS to create the Mortality - Prediction container | 43635 | I3043636
-Build the Mortality Prediction project container from the NCATS image. | 43637 | I3043640
-Request access to CD2H GitLab | 43641 | I3043641
-Create Mortality Prediction repo | 43641 | I3043641
-Deploy to the Mortality prediction container (app and required system libraries) | 43642 | I3043658
-Enhance the Guidebook/workflow with experience from the M-P deployment and perform editing. | 43661 | I3043669
-Cloud access request submitted to NCATS by CD2H NLP team member | 43670 | I3043671
-Build the NLP App project container from the NCATS image | 43672 | I3043677
-CD2H NLP team creates NLP repo | 43676 | I3043676
-Deploy to the NLP container (app and required system libraries) | 43678 | I3043692
-Enhance the Guidebook/workflow with experience from the NLP deployment and perform editing. | 43693 | I3043704
-CD2H teams deploy app, algorithms, tools to the CD2H Cloud using the deployment workflow and examples.  The process and workflow documentation continues to be improved. | 43710 | I3044012
+
+
+
 
 
 
