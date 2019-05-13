@@ -12,10 +12,15 @@ Don't edit this - the RPPR generater populates this section
 Task Name	Start	Finish
 Concept Phase	14-Apr	13-May
 Identify Project Goals	14-Apr	13-May
+
 Planning Phase	14-May	31-May
+
 Define the project scope	14-May	17-May
+
 Define the cloud resources required and draft design	20-May	24-May
+
 Coordinate with NCATS on cloud design and access	20-May	24-May
+
 Coordinate with Mortality-Prediction and LNP CD2H projects	27-May	31-May
 Implementation Phase	3-Jun	30-Jun-20
 Documenting deployment guidebook/workflow	3-Jun	12-Jul
