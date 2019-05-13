@@ -38,4 +38,5 @@ Enhance the Guidebook/workflow with experience from the NLP deployment and perfo
 CD2H teams deploy app, algorithms, tools to the CD2H Cloud using the deployment workflow and examples.  The process and workflow documentation continues to be improved.	9/2/2019	6/30/2020
 
 
+
 # Potential Pitfalls and Alternative Strategies
