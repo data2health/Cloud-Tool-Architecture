@@ -25,30 +25,55 @@ When viewed collectively, we believe that these innovative dimensions of our wor
 # Timeline (monthly)
 
 Task: Concept Phase -   Estimated Completion Date: 2019-05-13
+
 Task: Identify Project Goals -   Estimated Completion Date: 2019-05-13
+
 Task: Planning Phase -   Estimated Completion Date: 2019-05-31
+
 Task: Define the project scope -   Estimated Completion Date: 2019-05-17
+
 Task: Define the cloud resources required and draft design -   Estimated Completion Date: 2019-05-24
+
 Task: Coordinate with NCATS on cloud design and access -   Estimated Completion Date: 2019-05-24
+
 Task: Coordinate with Mortality-Prediction and LNP CD2H projects -   Estimated Completion Date: 2019-05-31
+
 Task: Implementation Phase -   Estimated Completion Date: 2020-06-30
+
 Task: Documenting deployment guidebook/workflow -   Estimated Completion Date: 2019-07-12
+
 Task: Create the project image in NCATS Cloud -   Estimated Completion Date: 2019-06-06
+
 Task: Cloud access request submitted to NCATS -   Estimated Completion Date: 2019-06-06
+
 Task: Build the CD2H GitLab project container from the NCATS image. -   Estimated Completion Date: 2019-06-10
+
 Task: Install GitLab in the CD2H GitLab Container -   Estimated Completion Date: 2019-06-14
+
 Task: GitLab validation -   Estimated Completion Date: 2019-06-19
+
 Task: Cloud access request submitted to NCATS to create the Mortality - Prediction container -   Estimated Completion Date: 2019-06-20
+
 Task: Build the Mortality Prediction project container from the NCATS image. -   Estimated Completion Date: 2019-06-24
+
 Task: Request access to CD2H GitLab -   Estimated Completion Date: 2019-06-25
+
 Task: Create Mortality Prediction repo -   Estimated Completion Date: 2019-06-25
+
 Task: Deploy to the Mortality prediction container (app and required system libraries) -   Estimated Completion Date: 2019-07-12
+
 Task: Enhance the Guidebook/workflow with experience from the M-P deployment and perform editing. -   Estimated Completion Date: 2019-07-23
+
 Task: Cloud access request submitted to NCATS by CD2H NLP team member -   Estimated Completion Date: 2019-07-25
+
 Task: Build the NLP App project container from the NCATS image -   Estimated Completion Date: 2019-07-31
+
 Task: CD2H NLP team creates NLP repo -   Estimated Completion Date: 2019-07-30
+
 Task: Deploy to the NLP container (app and required system libraries) -   Estimated Completion Date: 2019-08-15
+
 Task: Enhance the Guidebook/workflow with experience from the NLP deployment and perform editing. -   Estimated Completion Date: 2019-08-27
+
 Task: CD2H teams deploy app, algorithms, tools to the CD2H Cloud using the deployment workflow and examples.  The process and workflow documentation continues to be improved. -   Estimated Completion Date: 2020-06-30
 
 
