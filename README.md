@@ -57,12 +57,23 @@ Kirsch, Keats (NIH/NCATS) [C] <keats.kirsch@nih.gov>
 
 ## Team members 
 
-  * Washington University I2
-Philip Payne	prpayne@wustl.edu
-Tom Dillon	tmdillon@wustl.edu
-Ricky Rodriguez	ricardo.rodriguez@wustl.edu
-Albert Lai	amlai@wustl.edu
-TBN Cloud Architect	tbn@wustl.edu
+Washington University I2: 
+-	Philip Payne prpayne@wustl.edu 
+-	Tom Dillon tmdillon@wustl.edu 
+-	Ricky Rodriguez ricardo.rodriguez@wustl.edu 
+-	Albert Lai amlai@wustl.edu 
+-	TBN Cloud Architect tbn@wustl.edu
+
+Sage:
+-	Justin Guinney justin.guinney@sagebase.org; 
+-	James Eddy james.eddy@sagebase.org;
+
+NCATS:
+-	Ken Gersing Kenneth.Gersing@nih.gov
+-	Usman Sheikh Usman.Sheikh@axleinfo.com
+-	Kirsch, Keats (NIH/NCATS) keats.kirsch@nih.gov
+
+ 
 
      
 
