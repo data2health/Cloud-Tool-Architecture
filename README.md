@@ -98,9 +98,15 @@ https://github.com/data2health/Cloud-Tool-Archtecture/milestones
 
 
 ## Evaluation
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
+We will evaluate the outcome of this project in the following ways:
+
+- A Git repository solution was identified and will be available for use by CD2H teams deploying to the NCATS cloud.
+- The Motality-Predition application was sucesfully deployed as a docker/container to the NCATS cloud.
+- An NLP application was sucesfully deployed as a docker/container to the NCATS cloud.
+- A guidebook/workflow was documented that other CD2H teams can use to deploy applications to the NCATS cloud.
+
+
 
 ## Education
 Each project should propose a set of educational activities, listed separately in the Education Plan file. 
