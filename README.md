@@ -1,10 +1,8 @@
 # Cloud-Tool-Architecture
 
-TBD
-
 ## Problem statement
 
-This portal aims to  
+Demostrate the collaboration opportunies provided by deploying CD2H applications in the NCATS cloud.   
 
 ## Project description
 Define and document a cloud deployment workflow that can be used by all CD2H sites to guide deploying applications and tools in the NCATS cloud. 
@@ -26,8 +24,8 @@ Tom Dillon (@tmdillon) | Washington University I2 | Melissa Haendel
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Justin Gulnney | Sage
-Philip Payne | Washington University I2
+Justin Guinney, Director and EHR Challenge Project Lead (Sage Bionetworks)
+Philip Payne, Co-Director and Cloud Architecture Project Lead (Wash U)
 
 ## Distro List
 Payne, Philip <prpayne@wustl.edu>;
