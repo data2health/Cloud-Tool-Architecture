@@ -97,7 +97,7 @@ The milestones for this project is here:
 
 https://github.com/data2health/Cloud-Tool-Archtecture/milestones
 
-We are still in the process of finalizing them.
+
 
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
