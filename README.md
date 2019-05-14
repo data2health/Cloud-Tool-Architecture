@@ -72,12 +72,12 @@ https://github.com/data2health/Cloud-Tool-Archtecture
 
   
 ## Deliverables
-Deliverables are defined as work products accessible on and after completion of the project, and include documents, code repositories, web services, etc. Typically milestones build towards deliverables, but are not deliverables per se.
 
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
-
-Each deliverable should include a description (or bulleted list) of the functionality of said deliverable. For example, “The Competitions tool supports recruitment of external reviewers and submission of their reviews”.
-
+Creation of a GitLab instance deployed in the NCATS cloud.  (Dependant on GitLab being selected as the Git repo) 
+A successful deployment of the Mortality-Prediction application in the NCATS cloud.
+A successful deployment of an NLP application in the NCATS cloud.
+Creation of an authetication process that can be used by all CD2H sites.
+Creation off a Guidebook/workflow documentation that other CD2H teams can follow to deploy their apps/algorythms/tools to the CD2H cloud.
 
 ## Milestones
 
