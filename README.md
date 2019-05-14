@@ -73,11 +73,12 @@ https://github.com/data2health/Cloud-Tool-Archtecture
   
 ## Deliverables
 
-Creation of a GitLab instance deployed in the NCATS cloud.  (Dependant on GitLab being selected as the Git repo) 
-A successful deployment of the Mortality-Prediction application in the NCATS cloud.
-A successful deployment of an NLP application in the NCATS cloud.
-Creation of an authetication process that can be used by all CD2H sites.
-Creation off a Guidebook/workflow documentation that other CD2H teams can follow to deploy their apps/algorythms/tools to the CD2H cloud.
+•	Creation of a GitLab instance deployed in the NCATS cloud. (Dependant on GitLab being selected as the Git repo) 
+•	A successful deployment of the Mortality-Prediction application in the NCATS cloud. 
+•	A successful deployment of an NLP application in the NCATS cloud. 
+•	Creation of an authentication process that can be used by all CD2H sites. 
+•	Creation of a guidebook/workflow documentation that other CD2H teams can follow to deploy their apps/algorithms/tools to the CD2H cloud.
+
 
 ## Milestones
 
