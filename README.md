@@ -28,52 +28,27 @@ Justin Guinney, Director and EHR Challenge Project Lead (Sage Bionetworks)
 Philip Payne, Co-Director and Cloud Architecture Project Lead (Wash U)
 
 ## Distro List
-Payne, Philip <prpayne@wustl.edu>;
-margie.grover@vumc.org; 
-justin.guinney@sagebase.org; 
-james.eddy@sagebase.org; 
-matthew.carson@northwestern.edu; 
-Komeshak, Rachel <komeshak@wustl.edu>; 
-Lisa Lea O'Keefe <lisa.okeefe@northwestern.edu>; 
-david-eichmann@uiowa.edu; 
-Kenneth.Gersing@nih.gov; 
-metaxotd@mail.nih.gov; 
-mariam.deacy@nih.gov; 
-michaelsg@mail.nih.gov; 
-biju.mathew@nih.gov; 
-raju.hemadri@nih.gov; 
-ramussa@uw.edu; 
-Rodriguez, Ricardo <ricardo.rodriguez@wustl.edu>; 
-Lai, Albert <amlai@wustl.edu>; 
-Usman Sheikh <Usman.Sheikh@axleinfo.com>; 
-Simon, Reid (NIH/NCATS) [C] <reid.simon@nih.gov>; 
-Kirsch, Keats (NIH/NCATS) [C] <keats.kirsch@nih.gov>
-
-
- 
+For project email addresses, please see bit.ly/cd2h-people-slim
 
 
 ## Team members 
 
 Washington University I2: 
--	Philip Payne prpayne@wustl.edu 
--	Tom Dillon tmdillon@wustl.edu 
--	Ricky Rodriguez ricardo.rodriguez@wustl.edu 
--	Albert Lai amlai@wustl.edu 
--	TBN Cloud Architect tbn@wustl.edu
+-	Philip Payne
+-	Tom Dillon
+-	Ricky Rodriguez
+-	Albert Lai
+-	TBN Cloud Architect
 
 Sage:
--	Justin Guinney justin.guinney@sagebase.org; 
--	James Eddy james.eddy@sagebase.org;
+-	Justin Guinney
+-	James Eddy
 
 NCATS:
--	Ken Gersing Kenneth.Gersing@nih.gov
--	Usman Sheikh Usman.Sheikh@axleinfo.com
--	Kirsch, Keats (NIH/NCATS) keats.kirsch@nih.gov
-
- 
-
-     
+-	Ken Gersing
+-	Usman Sheikh
+-	Kirsch, Keats (NIH/NCATS)
+   
 
 
 ## Repositories
