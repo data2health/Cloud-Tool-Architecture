@@ -16,9 +16,9 @@ Deployment of an NLP application into the NCATS cloud using the documented deplo
 
 We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
 
-Point person (github handle) | Site | Program Director
+Point person (github handle) | Site | 
 ----------|--------------|---------------
-Tom Dillon (@tmdillon) | Washington University I2 | Melissa Haendel
+Tom Dillon (@tmdillon) | Washington University I2 | 
 
 ## Leads 
 
@@ -133,6 +133,3 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/CEY05KLPM/) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
 
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
