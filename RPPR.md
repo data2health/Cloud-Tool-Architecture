@@ -140,7 +140,7 @@ These documents will be made available in a curated manner via the Guidebook, bu
 
 This information is also in the Education Plan File (education.md)
 
-Get involved
+# Engagement
 Project 1- Cloud Architecture: Outreach, Engagement, and Education Plan
 
 For the purposes of the interaction between Project 1 (cloud architecture) and Projects 3 and 4 (pilot deployment of “cloudified” applications), we will implement a multi-part outreach, engagement, and education plan, consisting of the following activities:
