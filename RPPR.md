@@ -21,6 +21,14 @@ In a similar manner, a critical area of activity for many clinical and translati
 Finally, by showing how common software tools and artifacts that meet shared information needs across and between CTSA hubs, can be readily shared and deployed both locally and in a common cloud environment, CD2H will demonstrate the economies-of-scale that a software sharing ecosystem can achieve for the national CTSA consortium.  Ideally, these economies-of-scale would include: 1) reduced development costs; 2) sustainable technology deployment models and associated resourcing needs; and 3) improved ability to share and integrate data, information, and knowledge products amongst CTSA hubs.
 When viewed collectively, we believe that these innovative dimensions of our work will serve as the foundation for the creation of s software ecosystem, consisting of a combination of people, technologies, and methods, which can collectively predispose and enable successful and collaborative clinical and translational research projects.
 
+# Deliverables
+
+-	Creation of a GitLab instance deployed in the NCATS cloud. (Dependant on GitLab being selected as the Git repo) 
+-	A successful deployment of the Mortality-Prediction application in the NCATS cloud. 
+-	A successful deployment of an NLP application in the NCATS cloud. 
+-	Creation of an authentication process that can be used by all CD2H sites. 
+-	Creation of a guidebook/workflow documentation that other CD2H teams can follow to deploy their apps/algorithms/tools to the CD2H cloud.
+
 
 # Timeline (monthly)
 
