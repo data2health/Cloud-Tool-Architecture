@@ -60,7 +60,6 @@ Cloud-Tool-Architecture Project:
 
 Our approach to the design and delivery of an elastic, scalable, and sustainable common cloud architecture for use by the national CTSA network will be based upon the NIST Enterprise Architecture Model (GAO, 2010: “A Framework for Assessing and Improving Enterprise Architecture Management”).  The NIST Enterprise Architecture Model (EA) incorporated 5 interdependent layers of architectural planning and implementation, as is shown in Figure 1 below, spanning a spectrum from technical foundations to end-user defined use cases.
 
- ![](ncats 44.png)
  
  
 Figure 1:  Overview of NIST EA model, showing five interdependent layers of architectural planning and implementation.
