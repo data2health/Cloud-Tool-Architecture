@@ -73,7 +73,7 @@ Table 1:  Coordination of architectural design processes spanning CD2H and NCATS
 | Use Cases  | R,A | R | C | I | 
 | Information Needs  | R  |  R,A | C | I | 
 | Information Systems  | R,A  |  C | C | I | 
-| Data  | C  |  R | R,A | I | 
+| Data  | C  |  C | R,A | I | 
 | Delivery Systems | C  |  C | C | R,A |  
 
 
