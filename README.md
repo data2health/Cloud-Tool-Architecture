@@ -100,7 +100,7 @@ In order to ensure the sustainability of our methodology and its associated tech
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
 | A) Identify Project Goals |  Due by May 31, 2019 |  
-| B) Define the project scope |  Due by May 25, 2019 |
+| B) Define the project scope |  Due by May 31, 2019 |
 | C) Coordinate with NCATS on cloud design and access |  Due by May 24, 2019 |  
 | D) Coordinate with Mortality-Prediction and LNP CD2H projects  | Due by May 31, 2019 |  
 | E) NCATS create project image in the cloud |  Due by June 06, 2019 |  
