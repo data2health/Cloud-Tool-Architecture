@@ -46,21 +46,16 @@ In order to ensure the sustainability of our methodology and its associated tech
 
 # Timeline (monthly)
 
-Task: Concept Phase -   Estimated Completion Date: 2019-05-13
 
-Task: Identify Project Goals -   Estimated Completion Date: 2019-05-13
+Task: Identify Project Goals -   Estimated Completion Date: 2019-05-31
 
-Task: Planning Phase -   Estimated Completion Date: 2019-05-31
-
-Task: Define the project scope -   Estimated Completion Date: 2019-05-17
+Task: Define the project scope -   Estimated Completion Date: 2019-05-31
 
 Task: Define the cloud resources required and draft design -   Estimated Completion Date: 2019-05-24
 
 Task: Coordinate with NCATS on cloud design and access -   Estimated Completion Date: 2019-05-24
 
 Task: Coordinate with Mortality-Prediction and LNP CD2H projects -   Estimated Completion Date: 2019-05-31
-
-Task: Implementation Phase -   Estimated Completion Date: 2020-06-30
 
 Task: Documenting deployment guidebook/workflow -   Estimated Completion Date: 2019-07-12
 
@@ -124,7 +119,7 @@ Table 1: Coordination of architectural design processes spanning CD2H and NCATS 
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
 | A) Identify Project Goals |  Due by May 31, 2019 |  
-| B) Define the project scope |  Due by May 25, 2019 |
+| B) Define the project scope |  Due by May 31, 2019 |
 | C) Coordinate with NCATS on cloud design and access |  Due by May 24, 2019 |  
 | D) Coordinate with Mortality-Prediction and LNP CD2H projects  | Due by May 31, 2019 |  
 | E) NCATS create project image in the cloud |  Due by June 06, 2019 |  
