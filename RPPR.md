@@ -119,15 +119,9 @@ Table 1: Coordination of architectural design processes spanning CD2H and NCATS 
 | Data  | C  |  C | R,A | I | 
 | Delivery Systems | C  |  C | C | R,A |  
 
-# Deliverables
-Building on the preceding research design, during the forthcoming performance period (spanning 6 months), we intend to execute upon the following tasks:
 
-We will deploy a CD2H instance of the GitLab platform, leveraging NCATS cloud resources. This platform will provide a common environment for the development, documentation, and sharing of software artifacts, as well as core capabilities for continuous integration and deployment (CI/CD) as will be needed for future tasks related to establishing shared software quality “benchmarks”;
-We will integrate the aforementioned CD2H GitLab platform with one or more common authentication and authorization services supported by NIH/NCATS, in order to simplify community-member access and use of said environment;
-We will develop a set of technology deployment processes and documentation standards, working across the CD2H and NCATS teams, as are needed to support tasks 1 and 2, while informing future and analogous technology deployment activities; and
-In parallel, and working in coordination with the teams responsible for Projects 3 and 4, we will demonstrate the use of containerization technologies to enable the rapid “packaging” and deployment of such applications in the NCATS cloud environment, using either a SaaS and/or Virtual Server model. In order to ensure the sustainability of our methodology and its associated technical deliverables (including software components, best practices, etc.), we will couple all project related efforts with a continuous program of documentation and version management. Such activities will ensure that other cores, sites, or organizations could assume responsibility for the ongoing adoption or use of all research products described in this proposal. Specific measures to be taken in this regard include: •	Organization of all software development into discrete versions or releases that will be formalized, “checked-in” to the project’s GitHub/Lab site, and fully documented using community-accepted best practices; •	Documentation of all project-related design processes, decisions, use cases, and evaluation metrics; •	Use of software engineering best practices, in-line documentation, and quality assurance mechanisms; and •	Consistent use of open-source and standards-based software technologies and architectures.
-Milestones
-The milestones for this project is here:
+# Milestones
+The milestones for this project are here:
 
 https://github.com/data2health/Cloud-Tool-Archtecture/milestones
 
