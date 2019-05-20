@@ -34,9 +34,13 @@ Building on the preceding research design, during the forthcoming performance pe
 4.	In parallel, and working in coordination with the teams responsible for Projects 3 and 4, we will demonstrate the use of containerization technologies to enable the rapid “packaging” and deployment of such applications in the NCATS cloud environment, using either a SaaS and/or Virtual Server model.
 
 In order to ensure the sustainability of our methodology and its associated technical deliverables (including software components, best practices, etc.), we will couple all project related efforts with a continuous program of documentation and version management.  Such activities will ensure that other cores, sites, or organizations could assume responsibility for the ongoing adoption or use of all research products described in this proposal.  Specific measures to be taken in this regard include:
+
 •	Organization of all software development into discrete versions or releases that will be formalized, “checked-in” to the project’s GitHub/Lab site, and fully documented using community-accepted best practices;
+
 •	Documentation of all project-related design processes, decisions, use cases, and evaluation metrics;
+
 •	Use of software engineering best practices, in-line documentation, and quality assurance mechanisms; and
+
 •	Consistent use of open-source and standards-based software technologies and architectures.
 
 
