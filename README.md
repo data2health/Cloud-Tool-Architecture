@@ -107,7 +107,7 @@ In order to ensure the sustainability of our methodology and its associated tech
 | F) Create the GitLab container and deploy a GitLab instance  | Due by June 10, 2019 | 
 | G) Create Mortality-Prediction GitLab repo |  Due by June 25, 2019  |
 | H) Create Mortality-Prediction container |  Due by June 24, 2019  |
-| I) G) Create NLP container |  Due by July 31, 2019  |
+| I) Create NLP container |  Due by July 31, 2019  |
 |	J) Create NLP GitLab repo  |  Due by July 30, 2019 |  
 |	K) Create Guidebook/workflow to instruct CD2H team on deploying to the cloud |  Due by August 27, 2019 | 
 
