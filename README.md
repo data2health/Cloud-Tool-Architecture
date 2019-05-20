@@ -53,6 +53,7 @@ NCATS:
 
 ## Repositories
 https://github.com/data2health/Cloud-Tool-Archtecture
+Core:  https://github.com/data2health/tools-cloud-infrastructure
 
 ## Approach
 
