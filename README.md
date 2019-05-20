@@ -52,8 +52,8 @@ NCATS:
 
 
 ## Repositories
-https://github.com/data2health/Cloud-Tool-Archtecture
-Core:  https://github.com/data2health/tools-cloud-infrastructure
+- Project: https://github.com/data2health/Cloud-Tool-Archtecture
+- Core:  https://github.com/data2health/tools-cloud-infrastructure
 
 ## Approach
 
@@ -134,7 +134,7 @@ These documents will be made available in a curated manner via the Guidebook, bu
 
 This information is also in the Education Plan File (education.md)
 
-## Get involved
+## Get involved (Engagement)
 
 Project 1- Cloud Architecture: Outreach, Engagement, and Education Plan
 
