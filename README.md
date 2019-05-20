@@ -97,7 +97,7 @@ In order to ensure the sustainability of our methodology and its associated tech
 
 ## Milestones
 
-The milestones for this project is here:
+The milestones for this project are here:
 
 https://github.com/data2health/Cloud-Tool-Archtecture/milestones
 
