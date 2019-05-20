@@ -100,16 +100,18 @@ In order to ensure the sustainability of our methodology and its associated tech
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
 | A) Identify Project Goals |  Due by May 31, 2019 |  
-| B) Define the project scope |  Due by August 25,2019 |
+| B) Define the project scope |  Due by May 25, 2019 |
 | C) Coordinate with NCATS on cloud design and access |  Due by May 24, 2019 |  
 | D) Coordinate with Mortality-Prediction and LNP CD2H projects  | Due by May 31, 2019 |  
 | E) NCATS create project image in the cloud |  Due by June 06, 2019 |  
 | F) Create the GitLab container and deploy a GitLab instance  | Due by June 10, 2019 | 
 | G) Create Mortality-Prediction GitLab repo |  Due by June 25, 2019  |
 | H) Create Mortality-Prediction container |  Due by June 24, 2019  |
-| I) Create NLP container |  Due by July 31, 2019  |
-|	J) Create NLP GitLab repo  |  Due by July 30, 2019 |  
-|	K) Create Guidebook/workflow to instruct CD2H team on deploying to the cloud |  Due by August 27, 2019 | 
+| I) Deply Mortality-Prediction App to the cloud |  Due by June 28, 2019  |
+| J) Create NLP container |  Due by July 31, 2019  |
+|	K) Create NLP GitLab repo  |  Due by July 30, 2019 |  
+|	L) Deploy the NLP app to the cloud |  Due by August 15, 2019 | 
+|	M) Create Guidebook/workflow to instruct CD2H team on deploying to the cloud |  Due by August 27, 2019 | 
 
 
 
