@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-Demostrate the collaboration opportunies provided by deploying CD2H applications in the NCATS cloud.   
+Demostrate the collaboration opportunities provided by deploying CD2H applications in the NCATS cloud.   
 
 ## Project description
 Define and document a cloud deployment workflow that can be used by all CD2H sites to guide deploying applications and tools in the NCATS cloud. 
