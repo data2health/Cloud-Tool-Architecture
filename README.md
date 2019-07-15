@@ -83,8 +83,8 @@ Table 1:  Coordination of architectural design processes spanning CD2H and NCATS
 ## Deliverables
 
 Building on the preceding research design, during the forthcoming performance period (spanning 6 months), we intend to execute upon the following tasks:
-1.	We will deploy a CD2H instance of the GitLab platform, leveraging NCATS cloud resources.  This platform will provide a common environment for the development, documentation, and sharing of software artifacts, as well as core capabilities for continuous integration and deployment (CI/CD) as will be needed for future tasks related to establishing shared software quality “benchmarks”;
-2.	We will integrate the aforementioned CD2H GitLab platform with one or more common authentication and authorization services supported by NIH/NCATS, in order to simplify community-member access and use of said environment;
+1.	We will deploy a CD2H instance of the GitHub platform, leveraging NCATS cloud resources.  This platform will provide a common environment for the development, documentation, and sharing of software artifacts, as well as core capabilities for continuous integration and deployment (CI/CD) as will be needed for future tasks related to establishing shared software quality “benchmarks”;
+2.	We will integrate the aforementioned CD2H GitHub platform with one or more common authentication and authorization services supported by NIH/NCATS, in order to simplify community-member access and use of said environment;
 3.	We will develop a set of technology deployment processes and documentation standards, working across the CD2H and NCATS teams, as are needed to support tasks 1 and 2, while informing future and analogous technology deployment activities; and
 4.	In parallel, and working in coordination with the teams responsible for Projects 3 and 4, we will demonstrate the use of containerization technologies to enable the rapid “packaging” and deployment of such applications in the NCATS cloud environment, using either a SaaS and/or Virtual Server model.
 In order to ensure the sustainability of our methodology and its associated technical deliverables (including software components, best practices, etc.), we will couple all project related efforts with a continuous program of documentation and version management.  Such activities will ensure that other cores, sites, or organizations could assume responsibility for the ongoing adoption or use of all research products described in this proposal.  Specific measures to be taken in this regard include:
@@ -100,8 +100,8 @@ In order to ensure the sustainability of our methodology and its associated tech
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
 | A) Identify the goals of creating a cloud environment that facilities collaboration and software/data sharing across all CTSA hubs. |  Due by Apr, 2019 |  
-| B) A joint effort with NCATS and CD2H resources will collect the technical, process and security requirements to design the cloud environment |  Due by Jul 31, 2019 |
-| C) Design and implement a federated authorization and authentication process that will provide a common, reusable access process that will be available to all participating CTSA teams. |  Due by Sep 24, 2019 |  
+| B) A joint effort with NCATS and CD2H resources will collect the technical, process and security requirements to design the cloud environment |  Due by Jul, 2019 |
+| C) Design and implement a federated authorization and authentication process that will provide a common, reusable access process that will be available to all participating CTSA teams. |  Due by Sep, 2019 |  
 | D) Deploy Competitions and Dream Challenge in the NCATS cloud as proof of concept.  | Due by Sept, 2019 |  
 | E) NCATS technical staff and the application teams for Competitions and Dream Challenge will work as a team to identify the architecture resources required for these applications to be deployed in the cloud. |  Due by Jul, 2019 |  
 | F) Leverage the experience gained from deploying Competitions and Dream Challenge to create and publish a simple, repeatable process and workflow for future CD2H deployments.  Responsibilities for each step will be identified.   | Due by Dec, 2019 | 
