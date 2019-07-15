@@ -99,9 +99,9 @@ In order to ensure the sustainability of our methodology and its associated tech
 
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
-| A) Identify Project Goals |  Due by May 31, 2019 |  
-| B) Define the project scope |  Due by May 31, 2019 |
-| C) Coordinate with NCATS on cloud design and access |  Due by May 24, 2019 |  
+| A) Identify the goals of creating a cloud environment that facilities collaboration and software/data sharing across all CTSA hubs. |  Due by Apr, 2019 |  
+| B) A joint effort with NCATS and CD2H resources will collect the technical, process and security requirements to design the cloud environment |  Due by Jul 31, 2019 |
+| C) Design and implement a federated authorization and authentication process that will provide a common, reusable access process that will be available to all participating CTSA teams. |  Due by Sep 24, 2019 |  
 | D) Coordinate with Mortality-Prediction and LNP CD2H projects  | Due by May 31, 2019 |  
 | E) NCATS create project image in the cloud |  Due by June 06, 2019 |  
 | F) Create the GitLab container and deploy a GitLab instance  | Due by June 10, 2019 | 
