@@ -102,16 +102,11 @@ In order to ensure the sustainability of our methodology and its associated tech
 | A) Identify the goals of creating a cloud environment that facilities collaboration and software/data sharing across all CTSA hubs. |  Due by Apr, 2019 |  
 | B) A joint effort with NCATS and CD2H resources will collect the technical, process and security requirements to design the cloud environment |  Due by Jul 31, 2019 |
 | C) Design and implement a federated authorization and authentication process that will provide a common, reusable access process that will be available to all participating CTSA teams. |  Due by Sep 24, 2019 |  
-| D) Coordinate with Mortality-Prediction and LNP CD2H projects  | Due by May 31, 2019 |  
-| E) NCATS create project image in the cloud |  Due by June 06, 2019 |  
-| F) Create the GitLab container and deploy a GitLab instance  | Due by June 10, 2019 | 
-| G) Create Mortality-Prediction GitLab repo |  Due by June 25, 2019  |
-| H) Create Mortality-Prediction container |  Due by June 24, 2019  |
-| I) Deply Mortality-Prediction App to the cloud |  Due by June 28, 2019  |
-| J) Create NLP container |  Due by July 31, 2019  |
-|	K) Create NLP GitLab repo  |  Due by July 30, 2019 |  
-|	L) Deploy the NLP app to the cloud |  Due by August 15, 2019 | 
-|	M) Create Guidebook/workflow to instruct CD2H team on deploying to the cloud |  Due by August 27, 2019 | 
+| D) Deploy Competitions and Dream Challenge in the NCATS cloud as proof of concept.  | Due by Sept, 2019 |  
+| E) NCATS technical staff and the application teams for Competitions and Dream Challenge will work as a team to identify the architecture resources required for these applications to be deployed in the cloud. |  Due by Jul, 2019 |  
+| F) Leverage the experience gained from deploying Competitions and Dream Challenge to create and publish a simple, repeatable process and workflow for future CD2H deployments.  Responsibilities for each step will be identified.   | Due by Dec, 2019 | 
+| G) The NCATS cloud environment and a well-documented deployment process/workflow is available for other CTSA teams to deploy application, tool, and algorithms.  |  Due by Jan, 2020  |
+
 
 
 
