@@ -7,7 +7,7 @@ Demostrate the collaboration opportunities provided by deploying CD2H applicatio
 ## Project description
 Define and document a cloud deployment workflow that can be used by all CD2H sites to guide deploying applications and tools in the NCATS cloud. 
 We will deploy a CD2H branded GitHub instance in the CD2H cloud.  This has a dual benefit, first we will use the creation of the NCATS-CD2H GitHub as a working/learning experience that directly feeds information into creating the deployment workflow mentioned prior.   Second, the cloud based GitHub will provide a location for other CD2H sites to create repositories.    Both AWS and Docker GitHub instances are planned.
-In addition we will deploy the Dream Challenge (Mortality Prediction) app code and documentation into the CD2H GitHub. A Docker container will also be created as a sandbox environment for the Dream Challenge (Mortality Prediction) app. Lessons learned in the Dream Challenge (Mortality Prediction) deployment will be used to enhance the deployment workflow. 
+In addition we will deploy the Dream Challenge (Mortality Prediction) app code and documentation into the CD2H GitHub. A Docker container will also be created as a sandbox environment for the Dream Challenge (Mortality Prediction) app. Lessons learned in the Dream Challenge (Mortality Prediction) deployment will be used to enhance the deployment workflow.  Deployment of the Competitions application in the NCATS cloud will provide experience deployong a non containerized application.
 Deployment of an NLP application into the NCATS cloud using the documented deployment workflow is also planned as part of this project.
  
 
