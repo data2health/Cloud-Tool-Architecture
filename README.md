@@ -108,8 +108,9 @@ In order to ensure the sustainability of our methodology and its associated tech
 | F) Leverage the experience gained from deploying Competitions and Dream Challenge to create and publish a simple, repeatable process and workflow for future CD2H deployments.  Responsibilities for each step will be identified.   | Due by Dec, 2019 | 
 | G) The NCATS cloud environment and a well-documented deployment process/workflow is available for other CTSA teams to deploy application, tool, and algorithms.  |  Due by Jan, 2020  |
 | H) The app store concept and governance and best practices have been identified as processes that must be defined, approved, and documented. |  Due by Nov, 2019  |
+| I) Deploy the NLP solution in the NCATS cloud. |  Due by Jan, 2020  |
 
-
+ 
 
 
 The milestones for this project are here:
