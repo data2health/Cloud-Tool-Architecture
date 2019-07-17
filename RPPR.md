@@ -47,52 +47,17 @@ In order to ensure the sustainability of our methodology and its associated tech
 # Timeline (monthly)
 
 
-Task: Identify Project Goals -   Estimated Completion Date: 2019-05-31
-
-Task: Define the project scope -   Estimated Completion Date: 2019-05-31
-
-Task: Define the cloud resources required and draft design -   Estimated Completion Date: 2019-05-24
-
-Task: Coordinate with NCATS on cloud design and access -   Estimated Completion Date: 2019-05-24
-
-Task: Coordinate with Mortality-Prediction and LNP CD2H projects -   Estimated Completion Date: 2019-05-31
-
-Task: Documenting deployment guidebook/workflow -   Estimated Completion Date: 2019-07-12
-
-Task: Create the project image in NCATS Cloud -   Estimated Completion Date: 2019-06-06
-
-Task: Cloud access request submitted to NCATS -   Estimated Completion Date: 2019-06-06
-
-Task: Build the CD2H GitLab project container from the NCATS image. -   Estimated Completion Date: 2019-06-10
-
-Task: Install GitLab in the CD2H GitLab Container -   Estimated Completion Date: 2019-06-14
-
-Task: GitLab validation -   Estimated Completion Date: 2019-06-19
-
-Task: Cloud access request submitted to NCATS to create the Mortality - Prediction container -   Estimated Completion Date: 2019-06-20
-
-Task: Build the Mortality Prediction project container from the NCATS image. -   Estimated Completion Date: 2019-06-24
-
-Task: Request access to CD2H GitLab -   Estimated Completion Date: 2019-06-25
-
-Task: Create Mortality Prediction repo -   Estimated Completion Date: 2019-06-25
-
-Task: Deploy to the Mortality prediction container (app and required system libraries) -   Estimated Completion Date: 2019-07-12
-
-Task: Enhance the Guidebook/workflow with experience from the M-P deployment and perform editing. -   Estimated Completion Date: 2019-07-23
-
-Task: Cloud access request submitted to NCATS by CD2H NLP team member -   Estimated Completion Date: 2019-07-25
-
-Task: Build the NLP App project container from the NCATS image -   Estimated Completion Date: 2019-07-31
-
-Task: CD2H NLP team creates NLP repo -   Estimated Completion Date: 2019-07-30
-
-Task: Deploy to the NLP container (app and required system libraries) -   Estimated Completion Date: 2019-08-15
-
-Task: Enhance the Guidebook/workflow with experience from the NLP deployment and perform editing. -   Estimated Completion Date: 2019-08-27
-
-Task: CD2H teams deploy app, algorithms, tools to the CD2H Cloud using the deployment workflow and examples.  The process and workflow documentation continues to be improved. -   Estimated Completion Date: 2020-06-30
-
+| Milestone  | Due Date | 
+| ------------- | ------------- | 
+| A) Identify the goals of creating a cloud environment that facilities collaboration and software/data sharing across all CTSA hubs. |  Due by Apr, 2019 |  
+| B) A joint effort with NCATS and CD2H resources will collect the technical, process and security requirements to design the cloud environment |  Due by Jul, 2019 |
+| C) Design and implement a federated authorization and authentication process that will provide a common, reusable access process that will be available to all participating CTSA teams. |  Due by Sep, 2019 |  
+| D) Deploy Competitions and Dream Challenge in the NCATS cloud as proof of concept.  | Due by Sept, 2019 |  
+| E) NCATS technical staff and the application teams for Competitions and Dream Challenge will work as a team to identify the architecture resources required for these applications to be deployed in the cloud. |  Due by Jul, 2019 |  
+| F) Leverage the experience gained from deploying Competitions and Dream Challenge to create and publish a simple, repeatable process and workflow for future CD2H deployments.  Responsibilities for each step will be identified.   | Due by Dec, 2019 | 
+| G) The NCATS cloud environment and a well-documented deployment process/workflow is available for other CTSA teams to deploy application, tool, and algorithms.  |  Due by Jan, 2020  |
+| H) The app store concept and governance and best practices have been identified as processes that must be defined, approved, and documented. |  Due by Nov, 2019  |
+| I) Deploy the NLP solution in the NCATS cloud. |  Due by Jan, 2020  |
 
 
 # Approach
@@ -115,7 +80,7 @@ Table 1: Coordination of architectural design processes spanning CD2H and NCATS 
 | Delivery Systems | C  |  C | C | R,A |  
 
 
-# Milestones
+# Timeline
 | Milestone  | Due Date | 
 | ------------- | ------------- | 
 | A) Identify Project Goals |  Due by May 31, 2019 |  
