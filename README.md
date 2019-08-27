@@ -163,7 +163,7 @@ This information is also in the Engagement plan file (engagement.md)
 
 ## Working documents
 Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)
+[Documenting projects in Github](https://guides.github.com/features/wikis/)
 
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
