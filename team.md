@@ -26,7 +26,6 @@ Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
 Justin Starren | [starrenj](https://github.com/starrenj) | Northwestern
 Firas Wehbe | [firaswehbe](https://github.com/firaswehbe) | Northwestern
 Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW
-Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 
 ## Mailing list only
 Name | GitHub Handle | Site
