@@ -129,7 +129,25 @@ For the purposes of the interaction between Project 1 (cloud architecture) and P
 Working documents
 
 
-
-
-
 # Potential Pitfalls and Alternative Strategies
+
+
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* We will deploy a CD2H instance of the GitLab platform, leveraging NCATS cloud resources. This platform will provide a common environment for the development, documentation, and sharing of software artifacts, as well as core capabilities for continuous integration and deployment (CI/CD) as will be needed for future tasks related to establishing shared software quality “benchmarks”;
+  * In coordination with NCATs, we decided against a GitLab deployment in favor of using Github and Jenkins as the preferred source code repository and CI/CD system. Both Github and Jenkins are available in the NCATs cloud, and have been  leveraged as described in our [Cloud & Tool Architecture Proposal](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0) and on our [Core Website](https://data2health.github.io/tools-cloud-infrastructure/).
+
+* We will integrate the aforementioned CD2H GitLab platform with one or more common authentication and authorization services supported by NIH/NCATS, in order to simplify community-member access and use of said environment;
+  * See prior note on GitLab.
+
+* We will develop a set of technology deployment processes and documentation standards, working across the CD2H and NCATS teams, as are needed to support tasks 1 and 2, while informing future and analogous technology deployment activities;
+  * We have developed an intake process for teams who want to utilize the CD2H/NCATS cloud. The process begins with the team submitting a CD2H-NCATS Cloud Intake Request Form which captures information describing their tool/app and the technical resources required to support it.  Once the form is submitted and the request is approved by the governance team, the NCATS technical support team is engaged to provision the required cloud resources. This presentation describes the process. 
+
+* In parallel, and working in coordination with the teams responsible for Projects 3 and 4, we will demonstrate the use of containerization technologies to enable the rapid “packaging” and deployment of such applications in the NCATS cloud environment, using either a SaaS and/or Virtual Server model.
+  * We have successfully deployed two sandboxes: the Competitions platform and the EHR Algorithm Exercizer used in the EHR DREAM Challenge. For the latter, Dockerized algorithms are tested in the sandbox against SynPUF data to ensure operational validation of EHR algorithms.
+
+* In order to ensure the sustainability of our methodology and its associated technical deliverables (including software components, best practices, etc.), we will couple all project related efforts with a continuous program of documentation and version management. | Such activities will ensure that other cores, sites, or organizations could assume responsibility for the ongoing adoption or use of all research products described in this proposal. Specific measures to be taken in this regard include: Organization of all software development into discrete versions or releases that will be formalized, “checked-in” to the project’s GitHub/Lab site, and fully documented using community-accepted best practices; documentation of all project-related design processes, decisions, use cases, and evaluation metrics; use of software engineering best practices, in-line documentation, and quality assurance mechanisms; and consistent use of open-source and standards-based software technologies and architectures.
+  
+   * Adoption of Github and Jenkins have helped to codify the format and structure for code management, and build systems. All pilot projects - Leaf, Competitions, and EHR Challenges - are hosted in Github, and developed, versioned, and deployed according to software best practices. Where possible, open source tools and libraries are used.
